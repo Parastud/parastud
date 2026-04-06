@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**Parastud/parastud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 React Native Developer  
+💻 2.5+ years experience  
+📱 Building scalable mobile apps  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React Native, Expo
+- Node.js, Express
+- MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- Pose IQ (AI pose correction app)
+- ParkEase (Smart Parking Finder)
+- RoutePulse (Bus Management System)
+
+## 📫 Contact
+- Email: your@email.com
+- LinkedIn: linkedin link
