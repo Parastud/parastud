@@ -45,7 +45,7 @@ I build high-performance mobile apps with real-time systems & AI 🚀
 
 ### 📱 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 ### ⚙️ Backend
@@ -73,8 +73,8 @@ I build high-performance mobile apps with real-time systems & AI 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parastud&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parastud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parastud&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parastud&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
