@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-parth.sharma.rn@gmail.com-C9994A?style=flat&logo=gmail&logoColor=white)](mailto:parth.sharma.rn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parastud-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/parastud)
 [![GitHub](https://img.shields.io/badge/GitHub-parastud-181717?style=flat&logo=github)](https://github.com/parastud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9994A?style=flat)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9994A?style=flat)](https://parastud.github.io)
 
 </div>
 
